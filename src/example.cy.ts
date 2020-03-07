@@ -1,4 +1,4 @@
-import 'cypress';
+import 'cypress/types';
 
 it('should equal true', () => {
   expect(true).to.equal(true);
