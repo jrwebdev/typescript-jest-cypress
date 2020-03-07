@@ -1,0 +1,7 @@
+{
+  "exclude": ["**/*.cy.ts"],
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES2020", "DOM"]
+  }
+}
